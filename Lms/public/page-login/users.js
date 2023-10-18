@@ -1,0 +1,10 @@
+module.exports={
+    "9cd":{
+        "name":"ira",
+        "pass":"123"
+    },
+    "9cd4":{
+        "name":"vita",
+        "pass":"153"
+    }  
+};

@@ -1,0 +1,49 @@
+.main-centre {
+    padding: 24px;
+    width: 750px; /* Оновлений розмір */
+    height: 911px;
+    flex-shrink: 0;
+    background: #96999b;
+  }
+ 
+  .space{
+    width: 150px; /* Оновлений розмір */
+    height: 91px;
+  }
+  .greeting-search {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .greeting-search h1 {
+    margin-right: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  .form-group input {
+    flex: 1;
+    width: auto;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+  }
+  
+  .form-group button {
+    padding: 10px 10px;
+    background-color: #060e17;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  
+  

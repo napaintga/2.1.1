@@ -1,0 +1,30 @@
+.app-info {
+  padding: 24px;
+  width: 240px;
+  height: 911px;
+  flex-shrink: 0;
+  background: #F5F7F9;
+  }
+  
+  .app-info h2 {
+    color: #000000; /* Колір тексту для заголовків */
+    justify-content: center;
+    font-family: Anek Gujarati;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px; /* 93.75% */
+    letter-spacing: 2.08px;
+    flex-direction: column;
+    align-items: center;
+    color: #000000;
+    line-height: 15px;
+ }
+  
+  .app-info img {
+    max-width: 100%;
+    height: 170px; /* Збереже пропорції зображення */
+    margin: 15px;
+    display: flex;
+ }
+  

@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 10;
+  padding: 10;
+}
+
+body{
+  background-color:#f5f4fa40;
+  
+}
+.exitds {
+  text-align: center;
+  margin: 30px auto;
+  max-width: 300px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
